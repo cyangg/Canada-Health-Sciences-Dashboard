@@ -1,4 +1,4 @@
-# Canada-Health-Sciences-Dashboard
+# Canada Health Sciences Dashboard
 
 Three tabs of sample data (fake) for a hospital organization was given. I analyzed the data and relate my analysis through a well-designed, visually appealing and easy to understand dashboard in Tableau.
 
