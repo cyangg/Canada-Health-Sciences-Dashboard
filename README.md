@@ -2,6 +2,11 @@
 
 Three tabs of sample data (fake) for a hospital organization was given. I analyzed the data and relate my analysis through a well-designed, visually appealing and easy to understand dashboard in Tableau.
 
+### 🎨 [Canada Health Sciences Dashboard - Henry]
+(https://public.tableau.com/app/profile/henry.yang7195/viz/CanadaHealthSciencesDashboard/Dashboard2?publish=yes)
+
+![Presentation](https://user-images.githubusercontent.com/93499674/212800887-b5eeb07e-4344-41d9-9597-fb8df8c3a3a7.png)
+
 The terms in the data are explained below:
 
 Inpatients Tab – For reference inpatients are patients that stay in a bed in the hospital overnight.
