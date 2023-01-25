@@ -21,5 +21,5 @@ ED Tab – ED stands for Emergency Department
 - ED Admit (no bed) = how many people should have been admitted to an inpatient bed but there were no free beds to put them in (so waiting in an ED stretcher)
 
 ALC Tab – ALC (alternate level of care) 
-– These are patients that don’t need to be in hospital but they cannot be safely discharged (need to go to long-term care, complex care, etc) 
-– These reasons have been summarized just as “designation types” and you will see that we have laid it out for the different sites that way.
+- These are patients that don’t need to be in hospital but they cannot be safely discharged (need to go to long-term care, complex care, etc) 
+- These reasons have been summarized just as “designation types” and you will see that we have laid it out for the different sites that way.
