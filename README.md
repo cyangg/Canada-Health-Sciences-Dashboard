@@ -5,7 +5,8 @@ Three tabs of sample data (fake) for a hospital organization was given. I analyz
 ### 🎨 [Canada Health Sciences Dashboard - Henry]
 (https://public.tableau.com/app/profile/henry.yang7195/viz/CanadaHealthSciencesDashboard/Dashboard2?publish=yes)
 
-![Presentation](https://user-images.githubusercontent.com/93499674/212800887-b5eeb07e-4344-41d9-9597-fb8df8c3a3a7.png)
+![Dashboard 2](https://user-images.githubusercontent.com/93499674/214462677-f6330fe9-84d5-4da4-a310-e80ef3212bff.png)
+
 
 The terms in the data are explained below:
 
