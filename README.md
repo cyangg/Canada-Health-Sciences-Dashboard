@@ -2,8 +2,7 @@
 
 Three tabs of sample data (fake) for a hospital organization was given. I analyzed the data and relate my analysis through a well-designed, visually appealing and easy to understand dashboard in Tableau.
 
-### 🎨 [Canada Health Sciences Dashboard - Henry]
-(https://public.tableau.com/app/profile/henry.yang7195/viz/CanadaHealthSciencesDashboard/Dashboard2?publish=yes)
+### 🎨 [Canada Health Sciences Dashboard - Henry](https://public.tableau.com/app/profile/henry.yang7195/viz/CanadaHealthSciencesDashboard/Dashboard2?publish=yes)
 
 ![Dashboard 2](https://user-images.githubusercontent.com/93499674/214462677-f6330fe9-84d5-4da4-a310-e80ef3212bff.png)
 
