@@ -1,6 +1,6 @@
 # Canada-Health-Sciences-Dashboard
 
-The attached file has three tabs of sample data (fake) for a hospital organization. I analyzed the data and relate my analysis through a well-designed, visually appealing and easy to understand dashboard.
+The attached file has three tabs of sample data (fake) for a hospital organization. I analyzed the data and relate my analysis through a well-designed, visually appealing and easy to understand dashboard in Tableau.
 
 The terms in the data are explained below:
 
